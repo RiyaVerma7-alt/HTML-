@@ -1,0 +1,25 @@
+h1 {
+     color: red;
+     text-align:center;
+     font-weight: bolder;
+
+}
+p {
+     color:green;
+     font-size: 20px;
+     text-align: center;
+     text-size-adjust: initial;
+}
+#p1 {
+     text-align:justify;
+     color: black;
+     line-height: 20px;
+     font-style: oblique;
+}
+body {
+     background-color:lemonchiffon;
+} 
+button {
+     color:white;
+     background-color: #ff0000;
+}

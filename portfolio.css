@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    background-color: #d07cd3;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #368be0;
+}
+#student {
+    text-align: center;
+    font-size: 35px;
+    text-decoration: lightseagreen;
+}
+/* h2 {
+    text-align: center;
+}
+ul {
+    text-align: center;
+} */
